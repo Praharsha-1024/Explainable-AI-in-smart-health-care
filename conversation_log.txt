@@ -1,0 +1,291 @@
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+Time: 2024-04-28 14:04:31
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 14:04:57
+User: i have itching skin_rash and nodal_skin_eruptions ulcer_nose what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:34:37
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:37:13
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 15:38:24
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:20
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 16:39:28
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+Time: 2024-04-28 17:32:05
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 17:46:01
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 17:46:50
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:01:19
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:04:01
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:36:10
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:36:44
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:36:45
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 18:38:41
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 22:15:08
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 22:15:08
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-28 22:35:47
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+
+
+Time: 2024-04-29 07:22:51
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 08:57:33
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 08:57:33
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 11:00:22
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 11:00:29
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 12:34:54
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 13:30:40
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 14:03:54
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-04-29 22:08:05
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-05-06 11:52:46
+User: i have itching skin_rash and nodal_skin_eruptions  so hwat is my disee4ses?
+XAI: Fungal infection
+
+Time: 2024-05-06 11:52:46
+User: i have itching skin_rash and nodal_skin_eruptions  so hwat is my disee4ses?
+XAI: Fungal infection
+
+Time: 2024-05-06 13:31:19
+User: i have itching skin_rash and nodal_skin_eruptions what is my disease?
+XAI: Fungal infection
+
+Time: 2024-05-11 02:47:56
+User: i have itching skin_rash nodal_skin_eruptions 
+XAI: Fungal infection
+
+Time: 2024-05-11 03:10:25
+User: i have itching skin_rash and nodal_skin_eruptions
+XAI: Fungal infection
+
+Time: 2024-05-11 03:16:06
+User: i have itching skin_rash nodal_skin_eruptions
+XAI: Fungal infection
+
+Time: 2024-05-11 03:43:49
+User: itching skin_rash nodal_skin_eruptions
+XAI: Fungal infection
+
+Time: 2024-05-11 03:50:05
+User: i have itching skin_rash and nodal_skin_eruptions
+XAI: Fungal infection
+
